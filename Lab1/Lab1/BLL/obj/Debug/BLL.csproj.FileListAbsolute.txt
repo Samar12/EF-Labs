@@ -1,0 +1,14 @@
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\BLL.dll.config
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\BLL.dll
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\BLL.pdb
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\EntityFramework.dll
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\EntityFramework.SqlServer.dll
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\Model.dll
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\Repository.dll
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\Model.pdb
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\Repository.pdb
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\EntityFramework.xml
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\bin\Debug\EntityFramework.SqlServer.xml
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\obj\Debug\BLL.dll
+G:\ITI\EF\Labs\Lab1\Lab1\BLL\obj\Debug\BLL.pdb

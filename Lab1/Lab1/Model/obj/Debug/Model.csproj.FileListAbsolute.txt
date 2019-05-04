@@ -1,0 +1,10 @@
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\Model.dll.config
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\Model.dll
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\Model.pdb
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\EntityFramework.dll
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\EntityFramework.xml
+G:\ITI\EF\Labs\Lab1\Lab1\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\ITI\EF\Labs\Lab1\Lab1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\ITI\EF\Labs\Lab1\Lab1\Model\obj\Debug\Model.dll
+G:\ITI\EF\Labs\Lab1\Lab1\Model\obj\Debug\Model.pdb
